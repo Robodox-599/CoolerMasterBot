@@ -1,4 +1,5 @@
 #include "WPILib.h"
+#include "Drive.cpp"
 
 class CoolerMasterBot: public IterativeRobot
 {
